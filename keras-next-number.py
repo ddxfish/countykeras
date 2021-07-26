@@ -1,5 +1,4 @@
 #Keras single number sequence prediction
-#Chris Westpfahl
 #Today is 21-7-26
 
 import random
